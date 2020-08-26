@@ -12,7 +12,7 @@ Project
         - npm run dev
 
 3.  Start
-    -  Clone project [https://github.com/bucceroni/acr-cloud.git](https://github.com/bucceroni/acr-cloud.git)
+    -  Clone project [https://github.com/bucceroni/back-acr-cloud.git](https://github.com/bucceroni/back-acr-cloud.git)
     -  `npm install`
     -  `npm run dev (nodemon)` || `npm start`
 
